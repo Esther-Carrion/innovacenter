@@ -1,0 +1,172 @@
+/*
+    A dark color scheme for Parallax Frame
+*/
+
+body {
+    background-color: #111;
+}
+
+body,
+button,
+input,
+select,
+textarea,
+.widget-title,
+.widget-title a,
+a:hover,
+a:focus,
+a:active,
+.sidebar,
+.sidebar-header-right .widget_nav_menu a,
+.site .widget_parallax_frame_social_icons .genericon,
+#nav-below .wp-pagenavi span.pages {
+    color: #bebebe;
+}
+
+.entry-title,
+.entry-title a {
+    color: #fff;
+}
+
+a,
+#featured-content .entry-title a:hover,
+.entry-title a:hover,
+#breadcrumb-list a,
+#breadcrumb-list a span,
+.parallax-frame-nav-menu li a:hover,
+.parallax-frame-nav-menu li a:focus,
+.sidebar-header-right .widget_nav_menu li a:hover,
+.sidebar-header-right .widget_nav_menu li a:focus,
+.parallax-frame-nav-menu li:hover > a,
+.sidebar-header-right .widget_nav_menu li:hover > a,
+.parallax-frame-nav-menu .current-menu-item > a,
+.parallax-frame-nav-menu .current-menu-ancestor > a,
+.parallax-frame-nav-menu .current_page_item > a,
+.parallax-frame-nav-menu .current_page_ancestor > a,
+.sidebar-header-right .widget_nav_menu .current-menu-item > a,
+.sidebar-header-right .widget_nav_menu .current-menu-ancestor > a,
+.parallax-frame-nav-menu .sub-menu li a:hover,
+.parallax-frame-nav-menu .sub-menu li a:focus,
+.parallax-frame-nav-menu .children li a:hover,
+.parallax-frame-nav-menu .children li a:focus,
+.sidebar-header-right .widget_nav_menu .sub-menu li a:hover,
+.sidebar-header-right .widget_nav_menu .sub-menu li a:focus,
+.site .widget_parallax_frame_social_icons .genericon-wordpress:hover {
+    color: #e8554e;
+}
+
+.entry-meta,
+.entry-meta a,
+.sidebar a {
+    color: #999;
+}
+
+.sidebar-header-right .menu .sub-menu a,
+.sidebar-header-right .menu .sub-menu a,
+.site .widget_parallax_frame_social_icons .genericon,
+mark,
+ins,
+pre,
+.entry-content code,
+#breadcrumb-list .wrapper,
+.rtl blockquote {
+    background-color: #191919;
+}
+
+.sidebar-header-right .widget_nav_menu .sub-menu,
+.parallax-frame-nav-menu .sub-menu a,
+.parallax-frame-nav-menu .children a,
+.sidebar-header-right .widget_nav_menu .sub-menu a,
+.parallax-frame-nav-menu .sub-menu .sub-menu,
+.parallax-frame-nav-menu .children .children,
+.sidebar-header-right .widget_nav_menu .sub-menu .sub-menu,
+#featured-grid-content .wrapper,
+#content .wrapper,
+#featured-content.border-top,
+#feature-heading,
+.page-header .page-title,
+.archive-post-wrap,
+.page-header .page-title {
+    border-color: #191919;
+}
+
+.nav-secondary a,
+.nav-footer a {
+    color: #ccc;
+}
+.nav-secondary li:hover > a,
+.nav-secondary li a:hover,
+.nav-secondary li a:focus,
+.nav-secondary .current-menu-item > a,
+.nav-secondary .current-menu-ancestor > a,
+.nav-secondary .sub-menu li a:hover,
+.nav-secondary .sub-menu li a:focus,
+.nav-footer ul.menu li.current-menu-item a,
+.nav-footer ul.menu li a:hover {
+    color: #fff;
+}
+
+.nav-secondary,
+.nav-secondary .menu .sub-menu a,
+.nav-secondary .menu .children a,
+.nav-secondary .menu .sub-menu .sub-menu,
+.nav-secondary .menu .children .children {
+    background-color: #111;
+}
+
+.main-pagination .wp-pagenavi a,
+.main-pagination .wp-pagenavi span,
+.main-pagination a,
+.site-main #infinite-handle span button,
+.main-pagination .pagination a,
+.main-pagination .pagination span {
+    background-color: #000;
+    border-color: #fff;
+    color: #fff;
+}
+
+.main-pagination a:hover,
+.main-pagination a:focus,
+.site-main #infinite-handle span button:hover,
+.site-main #infinite-handle span button:focus,
+.main-pagination .pagination .current,
+.main-pagination .wp-pagenavi span.current,
+.main-pagination .wp-pagenavi a:hover,
+.main-pagination .wp-pagenavi a:focus,
+.main-pagination #wp_page_numbers ul li a:hover,
+.main-pagination #wp_page_numbers ul li a:focus {
+    background-color: #e8554e;
+    border-color: #e8554e;
+    color: #fff;
+    text-decoration: none;
+}
+
+.nav-secondary .menu .sub-menu a,
+.nav-secondary .menu .children a,
+.nav-secondary .menu .sub-menu .sub-menu,
+.nav-secondary .menu .children .children,
+#colophon {
+    border-color: #181818;
+}
+
+.site .widget_parallax_frame_social_icons .genericon {
+    border-color: #111;
+}
+
+#scrollup {
+    background-color: #000;
+    border-color: #fff;
+    color: #fff;
+}
+
+#scrollup:hover,
+#scrollup:focus {
+    background-color: #e8554e;
+    border-color: #e8554e;
+    color: #fff;
+}
+
+#colophon a:hover,
+#colophon a:focus {
+    color: #e8554e;
+}

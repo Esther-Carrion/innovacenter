@@ -1,0 +1,1351 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: mb YTPlayer PLUS for background videos\n"
+"POT-Creation-Date: 2020-12-04 23:11+0100\n"
+"PO-Revision-Date: 2020-12-04 23:22+0100\n"
+"Last-Translator: Matteo Bicochi <matteo@open-lab.com>\n"
+"Language-Team: Matteo Bicochi <matteo@open-lab.com>\n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: wp-ytplayer-plus.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: inc/extra.php:65
+msgid "A license key is needed"
+msgstr "Una chiave di licenza è necessaria"
+
+#: inc/extra.php:66
+msgid "Your license can't be verified"
+msgstr "La licenza non può essere verificata"
+
+#: inc/extra.php:67
+msgid "There's been a problem with the server:"
+msgstr "C'è stato un problema con il server:"
+
+#: inc/extra.php:68
+msgid "Your license is valid"
+msgstr "La tua licenza è valida"
+
+#: inc/extra.php:69
+msgid "Validating your license"
+msgstr "Verifico la tua licenza"
+
+#: inc/extra.php:70
+msgid "An email has been sent. Follow the link"
+msgstr "È stata inviata una mail. Segui il link"
+
+#: inc/extra.php:268
+msgid ""
+"<h3>[YTPlayer short code]</h3><p>You need a <b>license key</b> to display a "
+"<b>YTPlayer video</b> using the shortcode.<br> Go to the <b>YTPlayer "
+"settings page</b> to get your license</p>"
+msgstr ""
+"<h3>[YTPlayer shortcode]</h3><p>Hai bisogno di una <b>chiave di licenza</b> "
+"per visualizzare un <b> YTPlayer  video</b> usando gli shortcode.<br>Vai "
+"alla <b>pagina Impostazioni di YTPlayer</b> per ottenere la licenza</p>"
+
+#: inc/gutemberg-support/ytp-block.php:104
+msgid "mb.ideas"
+msgstr "mb.ideas"
+
+#: inc/mb-admin-menu.php:38
+msgid "mb.ideas installed plug-ins"
+msgstr "mb.ideas plug-ins"
+
+#: inc/plugin-update-checker/Puc/v4p4/Plugin/UpdateChecker.php:395
+msgid "Check for updates"
+msgstr "Controlla﻿ aggiornamenti"
+
+#: inc/plugin-update-checker/Puc/v4p4/Plugin/UpdateChecker.php:432
+msgid "View details"
+msgstr "Vedi dettagli"
+
+#: inc/plugin-update-checker/Puc/v4p4/Plugin/UpdateChecker.php:455
+#, php-format
+msgid "More information about %s"
+msgstr "Più informazioni su %s"
+
+#: inc/plugin-update-checker/Puc/v4p4/Plugin/UpdateChecker.php:548
+#, php-format
+msgctxt "the plugin title"
+msgid "The %s plugin is up to date."
+msgstr "%s plugin è aggiornato."
+
+#: inc/plugin-update-checker/Puc/v4p4/Plugin/UpdateChecker.php:550
+#, php-format
+msgctxt "the plugin title"
+msgid "A new version of the %s plugin is available."
+msgstr "È disponibile una nuova versione di %s plug-in."
+
+#: inc/plugin-update-checker/Puc/v4p4/Plugin/UpdateChecker.php:552
+#, php-format
+msgctxt "the plugin title"
+msgid "Could not determine if updates are available for %s."
+msgstr ""
+"Non è stato possibile determinare se è disponibile un aggiornamento di %s."
+
+#: inc/plugin-update-checker/Puc/v4p4/Plugin/UpdateChecker.php:558
+#, php-format
+msgid "Unknown update checker status \"%s\""
+msgstr "Aggiornamento sconosciuto stato checker \"%s\""
+
+#: inc/plugin-update-checker/Puc/v4p4/Vcs/PluginUpdateChecker.php:98
+#: inc/plugin-update-checker/github-checker.php:119
+msgid "There is no changelog available."
+msgstr "Non c'è nessun changelog disponibile."
+
+#: inc/popup.php:73 inc/popup.php:74
+msgid "Add YTPlayer"
+msgstr "Aggiungi uno YTPlayer"
+
+#: inc/popup.php:326
+msgid "mb.YTPlayer short-code editor"
+msgstr "mb.YTPlayer short-code editor"
+
+#: inc/popup.php:339
+msgid "Video url"
+msgstr "URL del video"
+
+#: inc/popup.php:342
+msgid "YouTube video URLs (comma separated)"
+msgstr ""
+"URL di uno o più video (separati da virgola). <br>Se più di una URL verrà "
+"mostrato un video scelto casualmente."
+
+#: inc/popup.php:351
+msgid "Custom ID"
+msgstr "Custom ID"
+
+#: inc/popup.php:353 wp-ytplayer-plus.php:896
+msgid ""
+"Set a custom ID (must be unique) you can refer to with the <a href=\"https://"
+"github.com/pupunzi/jquery.mb.YTPlayer/wiki#external-methods\" target=\"_blank"
+"\">API</a>"
+msgstr ""
+"Definisci un ID (deve essere univoco) a cui puoi fare riferimento con l'<a "
+"href=\"https://github.com/pupunzi/jquery.mb.YTPlayer/wiki#external-methods\" "
+"target=\"_blank\">API</a>"
+
+#: inc/popup.php:361
+msgid "Element selector"
+msgstr "Selettore elemento"
+
+#: inc/popup.php:363
+msgid ""
+"If you want the player into a specific element set the ID or the CSS class "
+"of it here (by default is the BODY of the page)"
+msgstr ""
+"Se volete il background video in un elemento specifico specificate il suo ID "
+"o la sua classe CSS (di default viene messo come background della pagina)."
+
+#: inc/popup.php:371
+msgid "Background image url"
+msgstr "URL dell'immagine di sfondo"
+
+#: inc/popup.php:376
+msgid "Set a background image to the video container"
+msgstr "Impostare un'immagine di sfondo per il contenitore del video"
+
+#: inc/popup.php:384
+msgid "Autoplay"
+msgstr "Riproduci automaticamente"
+
+#: inc/popup.php:390
+msgid "The player starts on page load."
+msgstr "Il video parte quando la pagina viene caricata."
+
+#: inc/popup.php:391
+msgid ""
+"The \"autoPlay\" will not work on Webkit browsers if the audio is active due "
+"to the latest Youtube policy."
+msgstr ""
+"La “riproduzione automatica” del video non funziona sugli ultimi browser "
+"Webkit se l’audio è attivo."
+
+#: inc/popup.php:399
+msgid "Mute video"
+msgstr "Modalità silenziosa"
+
+#: inc/popup.php:404
+msgid "Mute the audio of the video."
+msgstr "Silenzia l’audio del video."
+
+#: inc/popup.php:412
+msgid "Audio volume"
+msgstr "Volume Audio"
+
+#: inc/popup.php:414
+msgid "Set the audio volume (from 0 to 100)"
+msgstr "Impostare il volume audio (da 0 a 100)"
+
+#: inc/popup.php:422
+msgid "Opacity"
+msgstr "Opacità"
+
+#: inc/popup.php:425
+msgid "YouTube video opacity"
+msgstr "Imposta l'opacità del video"
+
+#: inc/popup.php:451 inc/popup.php:484
+msgid "Aspect ratio"
+msgstr "Aspect ratio"
+
+#: inc/popup.php:454
+msgid "auto detect"
+msgstr "rileva automaticamente"
+
+#: inc/popup.php:455 inc/popup.php:486 wp-ytplayer-plus.php:1062
+msgid "4/3"
+msgstr "4/3"
+
+#: inc/popup.php:456 inc/popup.php:487 wp-ytplayer-plus.php:1065
+msgid "16/9"
+msgstr "16/9"
+
+#: inc/popup.php:458
+msgid "YouTube video aspect ratio"
+msgstr "Aspect-ratio"
+
+#: inc/popup.php:459
+msgid "If \"auto\" the plug in will try to get it from Youtube"
+msgstr ""
+"Se hai selezionato \"auto\" il plug-in cercherà di ottenerlo da YouTube"
+
+#: inc/popup.php:467
+msgid "Is inline"
+msgstr "Crea un video player"
+
+#: inc/popup.php:473
+msgid "Show the player inline"
+msgstr "Visualizza un player video inline"
+
+#: inc/popup.php:481
+msgid "Player width"
+msgstr "Larghezza del video player"
+
+#: inc/popup.php:483
+msgid "Set the width of the inline player"
+msgstr "Imposta la larghezza del player inline"
+
+#: inc/popup.php:489
+msgid "To get the suggested height for the player"
+msgstr "Per recuperare l'altezza suggerita del video"
+
+#: inc/popup.php:490
+msgid "Player height"
+msgstr "Altezza del video"
+
+#: inc/popup.php:492
+msgid "Set the height of the inline player"
+msgstr "Imposta l'altezza del video player"
+
+#: inc/popup.php:496
+msgid "Go fullscreen on play"
+msgstr "Vai a pieno schermo"
+
+#: inc/popup.php:502
+msgid "if checked the player will go full screen once start playing"
+msgstr "Se selezionata, il player andrà a schermo intero appena inizierà"
+
+#: inc/popup.php:511
+msgid "Show controls"
+msgstr "Visualizza i controlli"
+
+#: inc/popup.php:517
+msgid "show controls for this player"
+msgstr "scegli se visualizzare o meno i controlli per questo player video"
+
+#: inc/popup.php:525
+msgid "Full screen"
+msgstr "Schermo Intero"
+
+#: inc/popup.php:527 wp-ytplayer-plus.php:1240
+msgid "Full screen containment is the screen"
+msgstr "Il video in fullscreen occupa l'intero schermo"
+
+#: inc/popup.php:531 wp-ytplayer-plus.php:1247
+msgid "Full screen containment is the browser window"
+msgstr "Il video in fullscreen occupa la finestra del browser"
+
+#: inc/popup.php:534
+msgid "Show YouTube® link"
+msgstr "YouTube link"
+
+#: inc/popup.php:540
+msgid "Show the link to the original YouTube® video"
+msgstr "Mostra il link al video originale su YouTube"
+
+#: inc/popup.php:548
+msgid "Start at"
+msgstr "Punto d'inizio"
+
+#: inc/popup.php:550
+msgid "Set the seconds you want the player starts at"
+msgstr "Imposta i secondi da cui far partire il video"
+
+#: inc/popup.php:558
+msgid "Stop at"
+msgstr "Ferma a"
+
+#: inc/popup.php:560
+msgid "Set the seconds you want the player stops at"
+msgstr "Imposta i secondi a cui far finire il video"
+
+#: inc/popup.php:568
+msgid "Loop video"
+msgstr "Ripeti il video"
+
+#: inc/popup.php:573
+msgid "Loop the video once ended"
+msgstr "Seleziona per ripetere il video una volta finito"
+
+#: inc/popup.php:581
+msgid "Abundance"
+msgstr "Abbondanza"
+
+#: inc/popup.php:583
+msgid "Set the abundance for the video in percentage of its size"
+msgstr ""
+"Imposta l’abbondanza del video in percentuale rispetto alla sua dimensione"
+
+#: inc/popup.php:591
+msgid "Optimize display"
+msgstr "Ottimizza la visualizzazione"
+
+#: inc/popup.php:597
+msgid "Optimize the video display to fit the containment size"
+msgstr ""
+"Ottimizza la visualizzazione del video per riempire le dimensioni del suo "
+"contenitore"
+
+#: inc/popup.php:605
+msgid "Anchor point"
+msgstr "Punto di ancoraggio"
+
+#: inc/popup.php:607 wp-ytplayer-plus.php:1165
+msgid "center,center"
+msgstr "centrato, centrato"
+
+#: inc/popup.php:608 wp-ytplayer-plus.php:1168
+msgid "center,left"
+msgstr "centrato, sinistra"
+
+#: inc/popup.php:609 wp-ytplayer-plus.php:1171
+msgid "center,right"
+msgstr "centrato, destra"
+
+#: inc/popup.php:611 wp-ytplayer-plus.php:1175
+msgid "top,left"
+msgstr "alto, sinistra"
+
+#: inc/popup.php:612 wp-ytplayer-plus.php:1178
+msgid "top,center"
+msgstr "alto, centrato"
+
+#: inc/popup.php:613 wp-ytplayer-plus.php:1181
+msgid "top,right"
+msgstr "alto, destra"
+
+#: inc/popup.php:615 wp-ytplayer-plus.php:1185
+msgid "bottom,left"
+msgstr "basso, sinistra"
+
+#: inc/popup.php:616 wp-ytplayer-plus.php:1188
+msgid "bottom,center"
+msgstr "basso, centrato"
+
+#: inc/popup.php:617 wp-ytplayer-plus.php:1191
+msgid "bottom,right"
+msgstr "basso, destra"
+
+#: inc/popup.php:619
+msgid "Set the anchor point vor the video"
+msgstr "Imposta il punto di ancoraggio del video rispetto al suo contenitore"
+
+#: inc/popup.php:634
+msgid "Add raster"
+msgstr "Aggiungi una trama"
+
+#: inc/popup.php:640
+msgid "Add a raster effect"
+msgstr "Aggiungi una trama in pixel al video"
+
+#: inc/popup.php:648
+msgid "Pause on window blur"
+msgstr "Pausa se la finestra perde il focus"
+
+#: inc/popup.php:654
+msgid "Pause the player on window blur"
+msgstr "Metti in pausa il player se la finestra perde il focus"
+
+#: inc/popup.php:662
+msgid "Remember last video time position"
+msgstr "Ricorda l'ultima posizione del video"
+
+#: inc/popup.php:668 wp-ytplayer-plus.php:1319
+msgid "Check to start the video from the where you left last time"
+msgstr "Seleziona per avviare il video dall’ultima posizione a cui era rimasto"
+
+#: inc/popup.php:676
+msgid "Add Google Analytics"
+msgstr "Aggiungi Google Analytics"
+
+#: inc/popup.php:682
+msgid "Add the event \"play\" on Google Analytics track"
+msgstr "Aggiungi un evento \"play\" su Google Analytics"
+
+#: inc/popup.php:690
+msgid "Insert the short-code"
+msgstr "Inserisci lo short-code"
+
+#: wp-ytplayer-plus.php:654
+msgid "YTPlayer <strong>PLUS</strong>"
+msgstr "YTPlayer <strong>Plus</strong>"
+
+#: wp-ytplayer-plus.php:675
+msgid "Test mode"
+msgstr "Modalità di prova"
+
+#: wp-ytplayer-plus.php:675
+msgid "is active"
+msgstr "è attiva"
+
+#: wp-ytplayer-plus.php:685
+msgid ""
+"Activate the test mode to use the plugin without a license Key. <br>The plug-"
+"in will work with all the functionality for logged users with a watermark on "
+"the video."
+msgstr ""
+"Attiva la modalità di prova per usare il plug-in senza licenza.<br>Il plug-"
+"in funzionerà in modalità completa per tutti gli utenti loggati con un "
+"watermark sul video."
+
+#: wp-ytplayer-plus.php:696
+msgid ""
+"Get your <strong>Plus</strong> license to activate all the <strong>YTPlayer</"
+"strong> features!"
+msgstr ""
+"Passa alla versione <strong>Plus</strong> per attivare tutte le opzioni!"
+
+#: wp-ytplayer-plus.php:697
+msgid ""
+"You need a <b>license key</b> to remove the <b>watermark</b> from the video "
+"and to enable the <b>YTPlayer shortcode editor</b> for any page of your site."
+msgstr ""
+"Hai bisogno di una <b>chiave di licenza</b> per rimuovere la <b>filigrana</"
+"b> dal video e per abilitare <b>l'editor shortcode YTPlayer</b> per "
+"utilizzarlo in qualsiasi pagina del tuo sito."
+
+#: wp-ytplayer-plus.php:704
+#, php-format
+msgid "Get your Key For <b>%s EUR</b> Only"
+msgstr "Ottieni una licenza a solo <b>%s EUR</b>"
+
+#: wp-ytplayer-plus.php:707
+msgid "<strong>Have a key?</strong> Paste it here:"
+msgstr "<strong>Dispone di una chiave?</strong> Incolla qui:"
+
+#: wp-ytplayer-plus.php:711
+msgid "Your license key"
+msgstr "La tua chiave di licenza"
+
+#: wp-ytplayer-plus.php:719
+msgid ""
+"This license seems Expired.<br>Try to validate it again or purchase a new "
+"one."
+msgstr ""
+"Questa licenza sembra essere scaduta. <br>Prova a rivalicarla o acquista una "
+"licenza valida."
+
+#: wp-ytplayer-plus.php:721
+#, php-format
+msgid ""
+"This license seems not valid.<br>The license domain is <strong id="
+"\"invalid_lic_domain\">%s</strong> while your domain is <strong>%s</strong>."
+"<br>Try to validate it again or change the associated domain."
+msgstr ""
+"Questa licenza non sembra essere valida.<br>Il dominio sulla licenza è "
+"<strong id=\"invalid_lic_domain\">%s</strong>, mentre il tuo dominio è "
+"<strong>%s</strong>.<br>Prova a riconvalidarla o cambia l'associazione al "
+"dominio dal link sottostante."
+
+#: wp-ytplayer-plus.php:726
+msgid "Change associated domain"
+msgstr "Cambia l'associazione al dominio"
+
+#: wp-ytplayer-plus.php:733
+msgid "Validate"
+msgstr "Convalida"
+
+#: wp-ytplayer-plus.php:733
+msgid "Activate"
+msgstr "Attiva"
+
+#: wp-ytplayer-plus.php:744
+msgid "General Background Video Settings"
+msgstr "Impostazioni Generali"
+
+#: wp-ytplayer-plus.php:753
+msgid "Activate the background video"
+msgstr "Attiva il video di background"
+
+#: wp-ytplayer-plus.php:769
+msgid "Active also on mobile"
+msgstr "Attivalo anche per mobile"
+
+#: wp-ytplayer-plus.php:786 wp-ytplayer-plus.php:796
+msgid "Use no-cookie Host"
+msgstr "Usa l’host no-cookie"
+
+#: wp-ytplayer-plus.php:802
+msgid "Homepage video background:"
+msgstr "Background video per l’homepage:"
+
+#: wp-ytplayer-plus.php:808
+msgid "The Youtube video url is:"
+msgstr "L'url del video di Youtube è:"
+
+#: wp-ytplayer-plus.php:830
+msgid ""
+"Copy and paste here the URL of the Youtube video you want as your homepage "
+"background. If you add more then one URL comma separated it will be chosen "
+"one randomly each time you reach the page"
+msgstr ""
+"Copia e incolla qui l&#39;URL del video di YouTube che si desidera come "
+"sfondo per la pagina iniziale. Aggiungendo più di una URL separate da "
+"virgola sarà scelto un video a caso ogni volta che la pagina viene caricata"
+
+#: wp-ytplayer-plus.php:838
+msgid "The page where to show the background video is:"
+msgstr "Mostra il video in:"
+
+#: wp-ytplayer-plus.php:843
+msgid "Static Homepage"
+msgstr "Home page statica"
+
+#: wp-ytplayer-plus.php:847
+msgid "Blog index Homepage"
+msgstr "Lista degli articoli"
+
+#: wp-ytplayer-plus.php:851
+msgid "Both"
+msgstr "Entrambe"
+
+#: wp-ytplayer-plus.php:855
+msgid "All pages"
+msgstr "Tutte le pagine"
+
+#: wp-ytplayer-plus.php:857
+msgid ""
+"Choose on which page you want the background video to be shown. If you check "
+"\"All\" you'll not be able to insert a page background video using the short-"
+"code"
+msgstr ""
+"Scegliere su quale pagina si desidera lo sfondo dei video da visualizzare. "
+"Se si seleziona \"Tutte le pagine\" non sarete in grado di inserire un "
+"background video per la pagina utilizzando lo short-code"
+
+#: wp-ytplayer-plus.php:864
+msgid "Save options"
+msgstr "Salva Impostazioni"
+
+#: wp-ytplayer-plus.php:875
+msgid "Advanced settings"
+msgstr "Impostazioni avanzate"
+
+#: wp-ytplayer-plus.php:881
+msgid "Activate the <strong>PLUS</strong> license to get all the features."
+msgstr ""
+"Passa alla versione <strong>Plus</strong> per attivare tutte le opzioni."
+
+#: wp-ytplayer-plus.php:882
+msgid "Get it now"
+msgstr "Scarica subito la versione <strong>Plus</strong>"
+
+#: wp-ytplayer-plus.php:891
+msgid "Custom ID:"
+msgstr "Custom ID:"
+
+#: wp-ytplayer-plus.php:904
+msgid "Background image:"
+msgstr "Immagine di background:"
+
+#: wp-ytplayer-plus.php:910
+msgid "Set the url for the background image"
+msgstr "Impostare l'URL per l'immagine di sfondo"
+
+#: wp-ytplayer-plus.php:918
+msgid "Auto play:"
+msgstr "Auto play:"
+
+#: wp-ytplayer-plus.php:928
+msgid "Set if the video should start playing once loaded"
+msgstr "Imposta se il video deve iniziare la riproduzione appena caricato"
+
+#: wp-ytplayer-plus.php:929
+msgid ""
+"The \"autoPlay\" will not work on Chrome browser if the audio is active due "
+"to the latest Youtube policy."
+msgstr ""
+"La “riproduzione automatica” del video non funziona sugli ultimi browser "
+"Webkit se l’audio è attivo."
+
+#: wp-ytplayer-plus.php:946
+msgid "Mute the video:"
+msgstr "Modalità silenziosa:"
+
+#: wp-ytplayer-plus.php:956
+msgid "Check to mute the audio of the video"
+msgstr "Seleziona per disattivare l'audio"
+
+#: wp-ytplayer-plus.php:964
+msgid "Set the audio volume:"
+msgstr "Impostare il volume iniziale:"
+
+#: wp-ytplayer-plus.php:969
+msgid "Set the volume for the video (from 0 to 100)"
+msgstr "Impostare il volume per il video (da 0 a 100)"
+
+#: wp-ytplayer-plus.php:978
+msgid "Fallback image url:"
+msgstr "Url dell’immagine di riserva:"
+
+#: wp-ytplayer-plus.php:982
+msgid "Set the background image url to be used on mobile devices"
+msgstr ""
+"Impostare l'url di una immagine di sfondo da utilizzare su dispositivi mobili"
+
+#: wp-ytplayer-plus.php:990
+msgid "Set the opacity:"
+msgstr "Imposta l'opacità:"
+
+#: wp-ytplayer-plus.php:995
+msgid "Set the opacity of the background video (from 0 to 10)"
+msgstr "Impostare l'opacità del video di background ( da 0 a 10)"
+
+#: wp-ytplayer-plus.php:1054
+msgid "Set the aspect ratio:"
+msgstr "Imposta l'aspect-ratio:"
+
+#: wp-ytplayer-plus.php:1059
+msgid "auto"
+msgstr "auto"
+
+#: wp-ytplayer-plus.php:1068
+msgid ""
+"Set the aspect-ratio of the background video. If \"auto\" the plug in will "
+"try to retrieve the aspect ratio from Youtube. If you have problems on "
+"viewing the background video try setting this manually."
+msgstr ""
+"Imposta l'aspect-ratio del video. Se \"auto\" il plug-in cercherà di "
+"recuperarla da YouTube. Se hai problemi nella visualizzazione del video "
+"allora imposta questo parametro manualmente."
+
+#: wp-ytplayer-plus.php:1076
+msgid "The video should start at:"
+msgstr "Parte da:"
+
+#: wp-ytplayer-plus.php:1081
+msgid "Set the seconds the video should start at"
+msgstr "Imposta i secondi da cui il video deve cominciare"
+
+#: wp-ytplayer-plus.php:1089
+msgid "The video should stop at:"
+msgstr "Finisce a:"
+
+#: wp-ytplayer-plus.php:1094
+msgid "Set the seconds the video should stop at"
+msgstr "Imposta i secondi a cui il video deve finire"
+
+#: wp-ytplayer-plus.php:1102
+msgid "Show the control bar:"
+msgstr "Mostra la barra dei controlli:"
+
+#: wp-ytplayer-plus.php:1113
+msgid "Check to show controls at the bottom of the page"
+msgstr "Seleziona per visualizzare i controlli del player video"
+
+#: wp-ytplayer-plus.php:1120
+msgid "Check to show the link to the original YouTube® video"
+msgstr ""
+"Seleziona per visualizzare il link al video su YouTube (icona di YouTube)"
+
+#: wp-ytplayer-plus.php:1141
+msgid "Optimize display:"
+msgstr "Ottimizza la visualizzazione:"
+
+#: wp-ytplayer-plus.php:1151
+msgid "Optimize the display of the video to cover the containment area"
+msgstr ""
+"Ottimizza la visualizzazione del video per riempire le dimensioni del suo "
+"contenitore"
+
+#: wp-ytplayer-plus.php:1159
+msgid "Anchor:"
+msgstr "Punto di ancoraggio:"
+
+#: wp-ytplayer-plus.php:1194
+msgid "Set the anchor point for the video"
+msgstr "Imposta il punto di ancoraggio del video rispetto al suo contenitore"
+
+#: wp-ytplayer-plus.php:1221
+msgid "Abundance:"
+msgstr "Abbondanza:"
+
+#: wp-ytplayer-plus.php:1225
+msgid "Set the abundance for the video in percentage of the size"
+msgstr ""
+"Imposta l’abbondanza del video in percentuale rispetto alla sua dimensione"
+
+#: wp-ytplayer-plus.php:1234
+msgid "The full screen behavior is:"
+msgstr "Il comportamento in fullscreen è:"
+
+#: wp-ytplayer-plus.php:1256
+msgid "The video should loop:"
+msgstr "Ripeti il video:"
+
+#: wp-ytplayer-plus.php:1266
+msgid "Check to loop the video once ended"
+msgstr "Seleziona per far ripartire il video quando finisce"
+
+#: wp-ytplayer-plus.php:1274
+msgid "Add the raster image:"
+msgstr "Aggiungi una trama:"
+
+#: wp-ytplayer-plus.php:1284
+msgid "Check to add a raster effect to the video"
+msgstr ""
+"Seleziona per aggiungere una trama di pixel al video (Utile se il video è a "
+"bassa qualità)"
+
+#: wp-ytplayer-plus.php:1291
+msgid "Pause the player on window blur:"
+msgstr "Metti in pausa il player se la finestra perde il focus:"
+
+#: wp-ytplayer-plus.php:1301
+msgid "Check to pause the player once the window blur"
+msgstr ""
+"Seleziona per mettere in pausa il video se la finestra va in secondo piano"
+
+#: wp-ytplayer-plus.php:1309
+msgid "Remember last video time position:"
+msgstr "Ricorda l'ultima posizione del video:"
+
+#: wp-ytplayer-plus.php:1327
+msgid "Track the video views on Google Analytics"
+msgstr "Google Analytics"
+
+#: wp-ytplayer-plus.php:1337
+msgid "Check to track this video on Google Analytics if played"
+msgstr "Seleziona per tracciare questo video su Google Analytics se guardato"
+
+#: wp-ytplayer-plus.php:1346
+msgid "Red zone!"
+msgstr "Red zone!"
+
+#: wp-ytplayer-plus.php:1348
+msgid ""
+"<strong>Rarely there could be a conflict with a theme or a plugins</strong> "
+"that prevent the player to be initialized; adding a delay to the initialize "
+"event could solve the problem. This option will delay the start of the "
+"video, use it only if you need."
+msgstr ""
+"<strong>In alcune installazioni possono esserci conflitti con il tema o con "
+"uno dei plug-in installati</strong>; aggiungendo un ritardo iniziale "
+"potrebbe risolvere il problema. Il ritardo di inizializzazione causa anche "
+"un ritardo nella visualizzazione; usatelo solo se necessario."
+
+#: wp-ytplayer-plus.php:1349
+msgid "This is a global option and will affect any player in any page"
+msgstr ""
+"Questa opzione è globale e sarà applicata a tutti i player attivi in "
+"qualsiasi pagina"
+
+#: wp-ytplayer-plus.php:1353
+msgid "Time to wait before initialization:"
+msgstr "Ritardo per l’inizializzazione:"
+
+#: wp-ytplayer-plus.php:1356
+msgid "none"
+msgstr "nessuno"
+
+#: wp-ytplayer-plus.php:1371
+msgid ""
+"Add a delay in seconds for the player initialization<br>(most times it needs "
+"2 sec.)"
+msgstr ""
+"Aggiungere un ritardo in secondi per l'inizializzazione del player<br/>(la "
+"maggior parte delle volte servono 2 sec.)"
+
+#: wp-ytplayer-plus.php:1378
+msgid "Save Advanced options"
+msgstr "Salvare le opzioni avanzate"
+
+#: wp-ytplayer-plus.php:1476
+msgid "Your license:"
+msgstr "La tua chiave di licenza:"
+
+#: wp-ytplayer-plus.php:1477
+msgid "This copy of <strong>YTPlayer Plus</strong> is registered."
+msgstr "Questa copia di <strong>YTPlayer Plus</strong> è registrata."
+
+#: wp-ytplayer-plus.php:1512
+msgid "Thanks for purchasing <b>YTPlayer Plus</b>!"
+msgstr "Grazie per aver acquistato <b>YTPlayer Plus</b>!"
+
+#: wp-ytplayer-plus.php:1514
+#, php-format
+msgid "You're using YTPlayer v. <b>%s</b>"
+msgstr "Stai usando YTPlayer  v. <b>%s</b>"
+
+#: wp-ytplayer-plus.php:1515
+msgid "by"
+msgstr "realizzato da"
+
+#: wp-ytplayer-plus.php:1518
+msgid "See the documentation"
+msgstr "Vai alla documentazione"
+
+#: wp-ytplayer-plus.php:1523
+msgid "Don’t forget to follow me on twitter"
+msgstr "Seguimi su Twitter"
+
+#: wp-ytplayer-plus.php:1525
+msgid "Visit Open lab site"
+msgstr "Visita il sito di Open Lab"
+
+#: wp-ytplayer-plus.php:1526
+msgid "Visit my site"
+msgstr "Il mio sito"
+
+#: wp-ytplayer-plus.php:1527
+msgid "Visit my blog"
+msgstr "Il mio blog"
+
+#: wp-ytplayer-plus.php:1528
+msgid "Need support"
+msgstr "Hai bisogno di aiuto"
+
+#: wp-ytplayer-plus.php:1537
+msgid "Subscribe to my mailing list <br>to stay in touch"
+msgstr "Sottoscrivi la mia mailing list <br>per restare aggiornato"
+
+#: wp-ytplayer-plus.php:1542
+msgid "your email address"
+msgstr "il tuo indirizzo email"
+
+#: wp-ytplayer-plus.php:1543
+msgid "Subscribe"
+msgstr "Iscriviti"
+
+#. Plugin Name of the plugin/theme
+msgid "mb YTPlayer PLUS for background videos"
+msgstr "mbYTPlayer PLUS per video backgrounds"
+
+#. Plugin URI of the plugin/theme
+msgid "https://pupunzi.com/wpPlus/go-plus.php?plugin_prefix=YTPL"
+msgstr "https://pupunzi.com/wpPlus/go-plus.php?plugin_prefix=YTPL"
+
+#. Description of the plugin/theme
+msgid ""
+"Play any Youtube video as page background or as background of any page "
+"element of your Wordpress site."
+msgstr ""
+"Riproduci qualsiasi video di Youtube come sfondo della pagina o come sfondo "
+"di qualsiasi elemento della pagina del tuo sito Wordpress."
+
+#. Author of the plugin/theme
+msgid "Pupunzi (Matteo Bicocchi)"
+msgstr "Pupunzi (Matteo Bicocchi)"
+
+#. Author URI of the plugin/theme
+msgid "https://pupunzi.open-lab.com"
+msgstr "https://pupunzi.open-lab.com"
+
+#~ msgid "activate the background video"
+#~ msgstr "attiva il video di background"
+
+#~ msgid "active also on mobile"
+#~ msgstr "attivo anche su mobile"
+
+#~ msgid "Fallback image url"
+#~ msgstr "Url dell’immagine di riserva"
+
+#~ msgid "Fallback background image url for mobiles"
+#~ msgstr ""
+#~ "Impostare l'url di una immagine di sfondo da utilizzare su dispositivi "
+#~ "mobili"
+
+#~ msgid "Cover image url"
+#~ msgstr "Url dell’immagine copertina"
+
+#~ msgid "Cover image for video with auto play set to false"
+#~ msgstr ""
+#~ "L’immagine copertina usata per il video se l’opzione autoplay non è attiva"
+
+#~ msgid "Quality"
+#~ msgstr "Qualità"
+
+#~ msgid "small"
+#~ msgstr "qualità bassa"
+
+#~ msgid "medium"
+#~ msgstr "qualità media"
+
+#~ msgid "large"
+#~ msgstr "qualità buona"
+
+#~ msgid "hd720"
+#~ msgstr "hd720"
+
+#~ msgid "hd1080"
+#~ msgstr "hd1080"
+
+#~ msgid "highres"
+#~ msgstr "alta risoluzione"
+
+#~ msgid "YouTube video quality"
+#~ msgstr "Imposta la qualità del video"
+
+#~ msgid "Background video settings"
+#~ msgstr "Impostazioni video di sfondo"
+
+#~ msgid ""
+#~ "Set a custom ID (must be unique) you can refer to with the <a href="
+#~ "\"https://github.com/pupunzi/jquery.YTPlayer/wiki#external-methods\" "
+#~ "target=\"_blank\">API</a>"
+#~ msgstr ""
+#~ "Definisci un ID (deve essere univoco) a cui puoi fare riferimento con "
+#~ "l'<a href=\"https://github.com/pupunzi/jquery.mb.YTPlayer/wiki#external-"
+#~ "methods\" target=\"_blank\">API</a>"
+
+#~ msgid "Set the url for the cover image if auto play is set to false"
+#~ msgstr "Imposta l’immagine di copertina se l’opzione autoplay non è attiva"
+
+#~ msgid "Set the quality:"
+#~ msgstr "Suggerisci la qualità dal video:"
+
+#~ msgid "default"
+#~ msgstr "default"
+
+#~ msgid ""
+#~ "Set the quality of the background video (\"default\" YouTube selects the "
+#~ "appropriate playback quality)"
+#~ msgstr ""
+#~ "Imposta la qualità del video (\"default\" YouTube seleziona la qualità di "
+#~ "riproduzione appropriata)"
+
+#~ msgid "This copy of <strong>YTPlayer Plus</strong><br>is registered to:"
+#~ msgstr ""
+#~ "Questa copia di <strong> YTPlayer Plus </strong> <br> è registrata per:"
+
+#~ msgid "insert short-code"
+#~ msgstr "inserisci lo short code"
+
+#~ msgid ""
+#~ "The \"autoPlay\" will not work on Webkit browsers if the audio is \"on\" "
+#~ "due to the latest Youtube policy."
+#~ msgstr ""
+#~ "La “riproduzione automatica” del video non funziona sugli ultimi browser "
+#~ "Webkit se l’audio è attivo."
+
+#~ msgid "The player starts on page load"
+#~ msgstr "Il video inizia quando la pagina viene caricata"
+
+#~ msgid "Mute the audio of the video"
+#~ msgstr "Seleziona per disattivare l'audio del video"
+
+#~ msgid ""
+#~ "<strong>Rarely there could be a conflict with a theme or a plugins</"
+#~ "strong> that prevent the player to work; adding a delay to the initialize "
+#~ "event could solve the problem. Be careful that this option will delay the "
+#~ "start of the video"
+#~ msgstr ""
+#~ "<strong>In alcune installazioni possono esserci conflitti con il tema o "
+#~ "con uno dei plug-in installati</strong>; aggiungendo un ritardo iniziale "
+#~ "potrebbe risolvere il problema. Attenzione, il ritardo di "
+#~ "inizializzazione causa anche un ritardo nella visualizzazione"
+
+#~ msgid ""
+#~ "Add a delay in seconds for the player initialization (most times it needs "
+#~ "2 sec.)"
+#~ msgstr ""
+#~ "Aggiungere un ritardo in secondi per l'inizializzazione del player (la "
+#~ "maggior parte delle volte servono 2 sec.)"
+
+#~ msgid ""
+#~ "Rarely there could be a conflict with a theme or a plugin that prevent "
+#~ "the player to work; adding a delay to the initialize event could solve "
+#~ "the problem. Be careful that this option will delay the start of the video"
+#~ msgstr ""
+#~ "In alcune installazioni possono esserci conflitti con il tema o con uno "
+#~ "dei plug-in installati; aggiungendo un ritardo iniziale potrebbe "
+#~ "risolvere il problema. Il ritardo di inizializzazione causa anche un "
+#~ "ritardo nella visualizzazione"
+
+#~ msgid "milliseconds"
+#~ msgstr "millisecondi"
+
+#~ msgid "Add a delay in milliseconds for the player initialization"
+#~ msgstr ""
+#~ "Aggiungere un ritardo in millisecondi per l'inizializzazione del player"
+
+#~ msgid "Get the Plus now!"
+#~ msgstr "Passa a <strong>Plus</strong>!"
+
+#~ msgid "Home video settings"
+#~ msgstr "Impostazioni Home video"
+
+#~ msgid ""
+#~ "This license seems not valid.<br>The license domain is <strong>%s</"
+#~ "strong> while your domain is <strong>%s</strong>.<br>Try to validate it "
+#~ "again or change the associated domain."
+#~ msgstr ""
+#~ "Questa licenza non sembra essere valida.<br>Il dominio sulla licenza è "
+#~ "<strong>%s</strong>, mentre il tuo dominio è <strong>%s</strong>."
+#~ "<br>Prova a riconvalidarla o cambia l'associazione al dominio dal link "
+#~ "sottostante."
+
+#~ msgid "Pause the player if the windows blur:"
+#~ msgstr "Metti in pausa se la finestra perde il focus:"
+
+#~ msgid "donate"
+#~ msgstr "Fai una donazione"
+
+#~ msgid ""
+#~ "If you want the player into a specific element set the ID or the CSS "
+#~ "class of it here"
+#~ msgstr ""
+#~ "Se volete il background video in un elemento specifico specificate il suo "
+#~ "ID o la sua classe CSS (di default viene messo come background della "
+#~ "pagina)."
+
+#~ msgid "mb.YTPlayer short code generator"
+#~ msgstr "mb.YTPlayer short code generator"
+
+#~ msgid "mb.YTPlayer video parameters:"
+#~ msgstr "Imposta i parametri per mb.YTPlayer: "
+
+#~ msgid "Set the ID or the css class of the element where you want the player"
+#~ msgstr ""
+#~ "Impostare l'ID o la classe css dell'elemento in cui si desidera inserire "
+#~ "il video"
+
+#~ msgid "Subscribe to my mailing list to stay in touch"
+#~ msgstr "Sottoscrivi la mia mailing list per restare aggiornato"
+
+#~ msgid ""
+#~ "This license seems not valid.<br>The license domain is <strong>%s</"
+#~ "strong> while your domain is <strong>%s</strong>.<br>Validate it or "
+#~ "change the associated domain."
+#~ msgstr ""
+#~ "Questa licenza non sembra essere valida.<br>Il dominio di licenza è "
+#~ "<strong>%s</strong>, mentre il tuo dominio è <strong>%s</strong>."
+#~ "<br>Prova a riconvalidarla o cambia l'associazione al dominio."
+
+#~ msgid "Thanks for installing <b>mb.YTPlayer</b>!"
+#~ msgstr "Grazie per avere installato <b>mb.YTPlayer</b>!"
+
+#~ msgid ""
+#~ "Get your <strong>PLUS</strong> license to activate all the <strong>mb."
+#~ "YTPlayer</strong> features!"
+#~ msgstr ""
+#~ "Passa alla versione <strong>Plus</strong> per attivare tutte le opzioni!"
+
+#~ msgid "Choose on which page you want the background video to be shown"
+#~ msgstr "Scegli in quale pagina fare vedere il video di background"
+
+#~ msgid "mb.YTPlayer<br>Home page settings"
+#~ msgstr "mb.YTPlayer <br> Impostazioni home page"
+
+#~ msgid "From here you can set a background video for your home page."
+#~ msgstr ""
+#~ "Da qui è possibile impostare un video di background per la tua home page."
+
+#~ msgid "The Youtube vudeo url is:"
+#~ msgstr "La URL del video è:"
+
+#~ msgid "Save Changes"
+#~ msgstr "Salva i cambiamenti"
+
+#~ msgid "Get your license!"
+#~ msgstr "Acquista la tua licenza!"
+
+#~ msgid "Have a key? Paste it here:"
+#~ msgstr "Incolla il tuo codice qui"
+
+#~ msgid "This copy of mb.YTPlayer is registered."
+#~ msgstr "Questa copia di mb.YTPlayer è stata registrata."
+
+#~ msgid "purchase a license"
+#~ msgstr "acquista una licenza"
+
+#~ msgid ""
+#~ "This license seems not valid.<br>The license domain is <strong>%s</"
+#~ "strong> while your domain is <strong>%s</strong>.<br>Validate it, please."
+#~ msgstr ""
+#~ "Questa licenza non sembra essere valida.<br>Il dominio di licenza è "
+#~ "<strong>%s</strong>, mentre il tuo dominio è <strong>%s</strong>."
+#~ "<br>Prova a riconvalidarla."
+
+#~ msgid ""
+#~ "This license seems not valid. The license domain is %s while your domain "
+#~ "is %s1 Validate it, please."
+#~ msgstr ""
+#~ "Questa licenza non sembra essere valida.<br>Il dominio di licenza è %s, "
+#~ "mentre il tuo dominio è %s1.<br>Convalidalo per favore."
+
+#~ msgid ""
+#~ "Check to activate the background video for the Homepage or the blog index "
+#~ "page"
+#~ msgstr "Seleziona per attivare il video di background"
+
+#~ msgid "This license seems not valid. Validate it, please."
+#~ msgstr "Questa licenza non sembra valida. Convalidarlo, per favore."
+
+#~ msgid ""
+#~ "<b>WP-YTPLAYER 3.0</b>: <br>With this release you need a <b>license key</"
+#~ "b> to use the short-code generator on the post/page editor. Just follow "
+#~ "the link to get one!"
+#~ msgstr ""
+#~ "<b>WP-YTPLAYER 3.0</b>: da questa versione dovrete avere una chiave di "
+#~ "licenza per utilizzare lo short-code nell'editor delle pagine o dei post. "
+#~ "Basta seguire questo link per ottenere uno!"
+
+#~ msgid "Set the opacity of the background video (from 0 to 1)"
+#~ msgstr "Impostare l'opacità del video di background ( da 0 a 1)"
+
+#~ msgid "Set the opacity of the background video (1 - 10)"
+#~ msgstr "Impostare l'opacità del video di background ( da 1 a 10)"
+
+#~ msgid "Set the opacity of the background video"
+#~ msgstr "Imposta l'opacità del video di background"
+
+#~ msgid "mb.YTPlayer<br>Home page background video settings"
+#~ msgstr "mb.YTPlayer<br>Impostazioni per il background video di home page"
+
+#~ msgid "Set the mb.YTPlayer background video"
+#~ msgstr "<b>mb.YTPlayer</b><br> Imposta il video di background"
+
+#~ msgid "Get your Key For <b>€%s</b> Only"
+#~ msgstr "Ottieni una chiave a solo <b>€%s</b>"
+
+#~ msgid "Thanks for installing mb.YTPlayer!"
+#~ msgstr "Grazie per avere installato mb.YTPlayer!"
+
+#~ msgid "You’re using mb.YTPlayer v. <b>%s</b>"
+#~ msgstr "Stai usando mb.YTPlayer <b>v %s</b>"
+
+#~ msgid "Add a shortcode for mb.YTPlayer"
+#~ msgstr "Aggiungi uno shorcode per mb.YTPlayer"
+
+#~ msgid ""
+#~ "If you like it and you are using it then you should consider a donation "
+#~ "<br> (€15,00 or more) :-)"
+#~ msgstr ""
+#~ "Se stai usando questo plug in e ti piace allora dovresti fare una "
+#~ "donazione (15€ o più) :-)"
+
+#~ msgid "I already donate"
+#~ msgstr "Ho già fatto una donazione"
+
+#~ msgid "full screen"
+#~ msgstr "Controllo per fullscreen"
+
+#~ msgid "show the link to the original YouTube® video"
+#~ msgstr "Mostra il link al video originale su YouTube"
+
+#~ msgid "stop at"
+#~ msgstr "Punto di fine"
+
+#~ msgid "mute the audio of the video"
+#~ msgstr "Seleziona per disattivare l'audio del video"
+
+#~ msgid "loop the video once ended"
+#~ msgstr "Seleziona per ripetere il video una volta finito"
+
+#~ msgid "add a raster effect"
+#~ msgstr "Aggiungi una trama in pixel al video"
+
+#~ msgid "pause on window blur"
+#~ msgstr "Metti in pausa se la finestra perde il fuoco"
+
+#~ msgid "pause the player on window blur"
+#~ msgstr "Metti in pausa il player se la finestra perde il focus"
+
+#~ msgid "add the event \"play\" on Google Analytics track"
+#~ msgstr "Aggiungi un evento \"play\" su Google Analytics"
+
+#~ msgid ""
+#~ "You need a license key</b> to display a YTPlayer background video using "
+#~ "the shortcode.<br> Go to the settings page and get your license"
+#~ msgstr ""
+#~ "Hai bisogno di una chiave di licenza per utilizzare YTPlayer tramite "
+#~ "shortcode. <br> Vai alla pagina delle impostazioni per ottenere la tua "
+#~ "licenza"
+
+#~ msgid "Get your Key For <b>€5</b> Only"
+#~ msgstr "Compra una licenza a solo <b>€ 5</b>"
+
+#~ msgid ""
+#~ "You need a license key</b> to display a YTPlayer background video using "
+#~ "the shortcode.<br> Go to the settings page and get a license"
+#~ msgstr ""
+#~ "Hai bisogno di una chiave di licenza per utilizzare YTPlayer tramite "
+#~ "shortcode. <br> Vai alla pagina delle impostazioni per ottenere la tua "
+#~ "licenza"
+
+#~ msgid ""
+#~ "You need a <b>license key</b> to remove the watermark from the video and "
+#~ "to add a background video to any of your site pages."
+#~ msgstr ""
+#~ "Hai bisogno di una <b>chiave di licenza</b> per rimuovere la filigrana "
+#~ "dal video e per aggiungere un video di sfondo su qualsiasi pagina del tuo "
+#~ "sito."
+
+#~ msgid "You re using mb.YTPlayer v. <b>%s</b>"
+#~ msgstr "Stai usando la versione <b>%s</b>"
+
+#~ msgid "You’re using mb.YTPlayer <b>v. %s</b>"
+#~ msgstr "Stai usando mb.YTPlayer <b>v %s</b>"
+
+#~ msgid "mb.YTPlayer - Use a Youtube video as background"
+#~ msgstr ""
+#~ "MB. YTPlayer - Utilizza un video di Youtube come sfondo della pagina"
+
+#~ msgid "You’re using mb.YTPlayer v. %s"
+#~ msgstr "Stai usando la versione %s di mb.YTPlayer"
+
+#~ msgid "Thanks for downloading mb.YTPlayer!"
+#~ msgstr "Grazie per avere scaricato mb.YTPlayer!"
+
+#~ msgid "Set the background video"
+#~ msgstr "Imposta il video di background"
+
+#~ msgid "mb.YTPlayer"
+#~ msgstr "mb.YTPlayer"
+
+#~ msgid "mb.YTPlayer Settings"
+#~ msgstr "Aggiungi un video di background con mb.YTPlayer"
+
+#~ msgid ""
+#~ "If you like it and you are using it<br>then you should consider a "
+#~ "donation (€15,00 or more) :-)"
+#~ msgstr ""
+#~ "Se stai usando questo plug in e ti piace allora dovresti fare una "
+#~ "donazione (15€ o più) :-)"
+
+#~ msgid "If you donate, the start popup will nevermore display"
+#~ msgstr "Se fai una donazione la finestra in popup non comparirà più"
+
+#~ msgid "Subscribe to my mailing list<br>to stay in touch"
+#~ msgstr "Sottoscrivi la mia mailing list per restare aggiornato"
+
+#~ msgid "Reference"
+#~ msgstr "Come funziona"
+
+#~ msgid ""
+#~ "You can add a mb.YTPlayer to any of your posts via the shortcode editor "
+#~ "available by clicking the button placed on the button-bar of the post "
+#~ "content editor"
+#~ msgstr ""
+#~ "Puoi aggiungere un background video in qualsiasi post o pagina "
+#~ "utilizzando il generatore di shortcode disponibile cliccando il bottone "
+#~ "con l'icona YT posto nella barra dell'editor di backoffice."
+
+#~ msgid "Home page background video properties"
+#~ msgstr "Proprietà del video di background della tua home page"
+
+#~ msgid ""
+#~ "These settings are used only for the Home istance of the mb.YTPlayer "
+#~ "component"
+#~ msgstr "Queste opzioni si riferiscono soltanto al video per la homepage"
+
+#~ msgid ""
+#~ "Copy and paste here the URL of the Youtube video you want as your "
+#~ "homepage background. Adding more then one URL comma separated it will be "
+#~ "chosen one randomly each time you reach the page."
+#~ msgstr ""
+#~ "﻿Copia e incolla qui l&#39;URL del video di YouTube che si desidera come "
+#~ "sfondo per la pagina iniziale. Aggiungendo più di una URL separati da "
+#~ "virgola farà sì che ne sarà scelto uno a caso ogni volta che si raggiunge "
+#~ "la pagina."
+
+#~ msgid ""
+#~ "Leave the <b>home video url</b> blank if you don’t want to display a "
+#~ "background video on your homepage."
+#~ msgstr ""
+#~ "Se non vuoi avere nessun video come background della tua homepage allora "
+#~ "lascia vuoto il campo \"video url\"."
+
+#~ msgid "Stop the player if a link is clicked:"
+#~ msgstr "Ferma il video se viene ciccato un link:"
+
+#~ msgid ""
+#~ "Check to stop the player once clicked on a link<br>(firefox has problems "
+#~ "catching the event and this speedup the action)"
+#~ msgstr "Seleziona per fermare il video se viene ciccato un link"
+
+#~ msgid ""
+#~ "Copy and paste here the URL of the Youtube video you want as your "
+#~ "homepage background"
+#~ msgstr ""
+#~ "Copia ed incolla qui la URL del video che che vuoi come background della "
+#~ "homepage "
+
+#~ msgid "home video"
+#~ msgstr "Video "
+
+#~ msgid "url"
+#~ msgstr "Url"
+
+#~ msgid "opacity"
+#~ msgstr "Opacità"
+
+#~ msgid "quality"
+#~ msgstr "Qualità"
+
+#~ msgid "aspect ratio"
+#~ msgstr "Aspect ratio"
+
+#~ msgid "start at"
+#~ msgstr "Punto di inizio"
+
+#~ msgid "show controls"
+#~ msgstr "Mostra i controlli"
+
+#~ msgid "Full screen behavior"
+#~ msgstr "Comportamento per la funzione a pieno schermo"
+
+#~ msgid "home video mute"
+#~ msgstr "Modalità silenziosa"
+
+#~ msgid "loop"
+#~ msgstr "A ciclo continuo"
+
+#~ msgid "raster image"
+#~ msgstr "Aggiungi una trama"
+
+#~ msgid "track on Google Analytics"
+#~ msgstr "Aggiungi Google Analytics"
+
+#~ msgid "Pause the player if the windows blur"
+#~ msgstr "Metti in pausa il video se la finestra perde il fuoco"
+
+#~ msgid "Stop the player if a link is clicked"
+#~ msgstr "Ferma il video se viene ciccato un link"
+
+#~ msgid "YouTube video URL"
+#~ msgstr "URL del video"
